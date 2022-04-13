@@ -1,4 +1,4 @@
-This is the Euler solver for a linear ODE equation of type
+This is the Euler solver for a linear ODE equation of type in Julia Language
 
                  a(t) y''(t) + b(t) y'(t) + c(t)y(t) = f(t)
                  y(t0) = c1
