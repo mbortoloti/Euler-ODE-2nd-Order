@@ -6,7 +6,7 @@ This is the Euler solver for a linear ODE equation of type
 
 by Marcio Antônio de Andrade Bortoloti
 
-   Departamento de Ciências Exatas e Tecnológica
+   Departamento de Ciências Exatas e Tecnológicas
 
    Universidade Estadual do Sudoeste da Bahia
 
