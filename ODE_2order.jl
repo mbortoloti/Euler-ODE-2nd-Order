@@ -9,6 +9,8 @@
 #         Departamento de Ciências Exatas e Tecnológicas
 #         Universidade Estadual do Sudoeste da Bahia
 
+using Plots;
+
 include("euler.jl");
 
 # Define functions a(t), b(t), and c(t)
@@ -34,3 +36,6 @@ c2 = 0.0;
 
 # Euler ODE Solver 
 (t,y) = euler2(a,b,c,t0,tf,dt,f,c1,c2);
+
+# Plot solution
+plot(t,y,lw=3)

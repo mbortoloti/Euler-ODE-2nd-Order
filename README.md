@@ -1,6 +1,6 @@
 This is the Euler solver for a linear ODE equation of type
 
-                 $$a(t) = \frac{d^2y}{dt^2}(t) + b(t) y'(t) + c(t)y(t) = f(t)$$
+                 a(t) y''(t) + b(t) y'(t) + c(t)y(t) = f(t)
                  y(t0) = c1
                  y'(t0) = c2
 
