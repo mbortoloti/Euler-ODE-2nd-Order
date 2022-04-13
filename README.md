@@ -10,5 +10,6 @@ by Marcio Antônio de Andrade Bortoloti
 
    Universidade Estadual do Sudoeste da Bahia
 
-    mbortoloti@uesb.edu.br
+
+   mbortoloti@uesb.edu.br
 
