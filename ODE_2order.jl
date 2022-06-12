@@ -19,7 +19,7 @@ a(t) = 1.0;
 b(t) = 0.0;
 c(t) = 1.0;
 
-# Define right hand side function f
+# Define right hand side function f(x)
 f(t) = 0.0;
 
 # Set the time range   [t0,tf]
